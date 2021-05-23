@@ -85,7 +85,7 @@ function Categories() {
 
             <CardItem
               src='images/img-ghibili.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='Ghibili Studio'
               label='Lifestyle'
               path='/sign-up'
             />
